@@ -1,4 +1,4 @@
-//0716049 詹凱傑
+//0716049
 
 module compare(less,equal,op,out);
 

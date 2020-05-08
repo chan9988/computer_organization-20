@@ -1,4 +1,4 @@
-//0716049 詹凱傑
+//0716049
 `timescale 1ns/1ps
 
 module alu(
