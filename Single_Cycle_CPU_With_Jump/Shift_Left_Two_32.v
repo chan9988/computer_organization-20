@@ -1,4 +1,4 @@
-// Author:0716049 詹凱傑,0716009 劉冠宏
+// Author:0716049 ,0716009
 
 module Shift_Left_Two_32(
     data_i,

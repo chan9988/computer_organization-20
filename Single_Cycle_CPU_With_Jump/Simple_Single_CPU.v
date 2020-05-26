@@ -1,5 +1,4 @@
-// Author:0716049 詹凱傑,0716009 劉冠宏
-
+// Author:0716049 ,0716009
 module Simple_Single_CPU(
     clk_i,
     rst_i

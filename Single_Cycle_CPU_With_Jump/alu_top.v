@@ -1,4 +1,4 @@
-// Author:0716049 詹凱傑,0716009 劉冠宏
+// Author:0716049 ,0716009
 
 module alu_top(
                src1,       //1 bit source 1 (input)
