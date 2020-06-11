@@ -1,5 +1,5 @@
 //0716049
-`timescale 1ns/1ps
+`timescale 1ns/1ps 
 
 module alu(
            rst_n,         // negative reset            (input)
